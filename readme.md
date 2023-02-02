@@ -1,4 +1,4 @@
-<p align="center"><img src='https://drive.google.com/file/d/1tUPQoFGYDQH9vkbLSNduHPZU7_SkQjG-/view?usp=share_link'></p>
+<p align="center"><img src='https://www.canva.com/design/DAFZbYcq_ds/XBE6sepjpBDcHGSrmOVBFA/view?utm_content=DAFZbYcq_ds&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'></p>
 
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/Gaurav9958kumar" target="_blank" rel="noopener noreferrer">GAURAV KUMAR</a>!
