@@ -1,4 +1,4 @@
-<p align="center"><img placeholder="gku" src='https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif'></p>
+<p align="center"><img src='https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif'></p>
 
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/Gaurav9958kumar" target="_blank" rel="noopener noreferrer">GAURAV KUMAR</a>!
